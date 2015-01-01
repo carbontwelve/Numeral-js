@@ -6,7 +6,7 @@
  * http://adamwdraper.github.com/Numeral-js/
  */
 
-(function () {
+;(function () {
 
     /************************************
         Constants
